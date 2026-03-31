@@ -11,23 +11,13 @@
 * Compare Data Types: [https://redis.io/docs/latest/develop/data-types/compare-data-types/](https://redis.io/docs/latest/develop/data-types/compare-data-types/)
 * Develop with Redis([redis.io](https://redis.io/docs/latest/develop/data-types/?utm_source=chatgpt.com))-
 
-# 🧠 What is Redis?
-
-Redis is an **in-m![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/1%2AAS-Z7_YMQZ2iTAnTfto9Ag.png)
-
-![Image](https://storage.googleapis.com/algodailyrandomassets/curriculum/databases/redis-cheat-sheet/typesD.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2Afnk7ax17jYroq0_Wrn41rg.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AbMi9Rm-DlFCR3OydIu09vg.png)eaderboard engine
-
 #Hand On Experiences
 <img width="1917" height="921" alt="Screenshot 2026-03-31 183801" src="https://github.com/user-attachments/assets/d429a9e1-309c-494e-92a0-b0b9027ae4bc" />
 <img width="1795" height="846" alt="Screenshot 2026-03-31 183843" src="https://github.com/user-attachments/assets/3a192312-0145-43eb-8d40-30a73e6e7a73" />
 <img width="1813" height="929" alt="Screenshot 2026-03-31 182702" src="https://github.com/user-attachments/assets/77ee93c0-7764-4da7-960c-f723c3ef9324" />
 
 
-#Importent
+# 🧠 What is Redis?
 <img width="1351" height="730" alt="image" src="https://github.com/user-attachments/assets/29110d32-8746-45bf-8520-9eecff5101f5" />
 <img width="940" height="751" alt="image" src="https://github.com/user-attachments/assets/f9fbcd78-2f3b-4ff0-ac8e-8426f4f8b7ac" />
 
